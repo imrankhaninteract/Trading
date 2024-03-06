@@ -11,7 +11,7 @@
 
 
 #banner{
-    background: linear-gradient(rgba(36, 138, 99, 0.1),#00000099),url(https://images.pexels.com/photos/1737957/pexels-photo-1737957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background: url("https://images.pexels.com/photos/7031608/pexels-photo-7031608.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
     background-size: cover ;
     background-position:center ;
     height: 100vh;
@@ -30,7 +30,7 @@
 }
 .banner-text h1{
     font-size: 90px; 
-    font-family: futura;
+    
     color: #d10000;
 }
 .banner-text p{

@@ -119,6 +119,7 @@ nav ul li a{
 #feature{
     width: 100% ;
     padding: 70px 0;
+    background-color: #ebebeb;
 }
 .title-text{
     text-align: center;
@@ -137,7 +138,7 @@ nav ul li a{
     content: '';
     width: 50px;
     height: 35px;
-    background: linear-gradient(#ff5c3b,#fff);
+    background: linear-gradient(#ff5c3b,#ebebeb);
     position: absolute;
     top: -20px;
     left: 0;
@@ -294,6 +295,7 @@ hr{
 #testimonial{
     width: 100%;
     padding: 70px 0;
+    background-color: #ebebeb;
 }
 .testimonial-row{
     width: 80%;
@@ -308,7 +310,7 @@ hr{
     padding: 10px;
     margin-bottom: 30px;
     border-radius: 5px;
-    box-shadow: 0 10px 20px 3px #ff5c3b;
+    box-shadow: 0 5px 10px 0px #ff5c3b;
     cursor: pointer;
     transition: transform .5s;
 }
@@ -327,7 +329,7 @@ hr{
 }
 .user-info .fa-brands{
     margin-left: 10px;
-    color: #27c0ff;
+    color: #000000;
     font-size: 20px;
 }
 .user-info small{

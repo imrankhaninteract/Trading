@@ -3,10 +3,12 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
-@font-face {
-    font-family: futura;
-    src: url(Futura.ttf);
-}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+
+
 
 
 
@@ -28,10 +30,14 @@
     color: #fff;
     padding-top: 60px;
 }
-.banner-text h1{
+.banner-text h1 {
     font-size: 70px; 
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     line-height: 77px;
     color: #ffffff;
+    
 }
 .banner-text p{
     font-size: 20px; 

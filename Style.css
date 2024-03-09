@@ -217,6 +217,13 @@ text-align: initial;
     padding: 70px 0;
     background: #efefef;
 }
+
+.service-desc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
 .service-box{
     width: 80%;
     display:flex;
@@ -232,6 +239,7 @@ text-align: initial;
     margin-bottom: 20px;
     color: #fff;
     position: relative;
+    
 }
 
 .single-service img{
